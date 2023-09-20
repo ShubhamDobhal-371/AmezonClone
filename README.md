@@ -1,0 +1,1 @@
+#Created a responsive Amazon clone using HTML, CSS, Implemented responsive design principles to ensure a seamless user experience across various devices and screen sizes by using CSS media queries.
